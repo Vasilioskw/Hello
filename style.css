@@ -34,7 +34,7 @@ html {
   background-color: #cfe7ff;
 }
 body {
-  width: 100%;
+  width: 60%;
   margin: 10% auto;
   background-color: #27bbed;
   padding: 4em;
@@ -46,8 +46,8 @@ img {
   display: block;
   float: right;
   margin: 0;
-  width: 45%;
-  border-radius: 45em;
+  width: 40%;
+  border-radius: 20em;
 
 }
 
