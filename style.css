@@ -2,9 +2,16 @@ html {
     font-size: 40px;
     font-family: 'Montserrat', sans-serif;
 		font-family: 'Roboto', sans-serif;
+	 }
+	
+	h1 {
+    font-size: 40px;
+    font-family: 'Montserrat', sans-serif;
+		font-family: 'Roboto', sans-serif;
 
 
   }
+	
 h2 {
  font-size: 65px;
   text-align: center;
