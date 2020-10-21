@@ -1,21 +1,21 @@
 html {
-    font-size: 14px;
+    font-size: 28px;
     font-family: 'Montserrat', sans-serif;
 		font-family: 'Roboto', sans-serif;
 }
 html {
-    font-size: 12px;
+    font-size: 18px;
     font-family: 'Montserrat', sans-serif;
 		font-family: 'Roboto', sans-serif;
 
 
   }
 h1 {
- font-size: 65px;
+ font-size: 40px;
   text-align: center;
     font-family: , sans-serif;
     margin: 0;
-    padding: 20px 0;    
+    padding: 12px 0;    
     color: #0043ff;
     text-shadow: 15px 2px 4px #ffffff;
 }
@@ -29,7 +29,7 @@ h2 {
     text-shadow: 15px 2px 4px #ffffff;
 }
 p, li {
-  font-size: 16px;    
+  font-size: 20px;    
   line-height: 2;
   letter-spacing: 1px;
 }
@@ -37,7 +37,7 @@ html {
   background-color: #cfe7ff;
 }
 body {
-  width: 75%;
+  width: 60%;
   margin: 10% auto;
   background-color: #27bbed;
   padding: 4em;
@@ -49,8 +49,8 @@ img {
   display: block;
   float: right;
   margin: 0;
-  width: 40%;
-  border-radius: 65em;
+  width: 22%;
+  border-radius: 60em;
 
 }
 
