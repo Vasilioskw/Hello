@@ -1,19 +1,10 @@
 html {
-    font-size: 18px;
+    font-size: 40px;
     font-family: 'Montserrat', sans-serif;
 		font-family: 'Roboto', sans-serif;
 
 
   }
-li {
- font-size: 80px;
-  text-align: center;
-    font-family: , sans-serif;
-    margin: 0;
-    padding: 12px 0;    
-    color: #0043ff;
-    text-shadow: 2px 4px 8px #ffffff;
-}
 h2 {
  font-size: 65px;
   text-align: center;
@@ -21,10 +12,10 @@ h2 {
     margin: 0;
     padding: 20px 0;    
     color: #0043ff;
-    text-shadow: 2px 4px 8px #ffffff;
+    text-shadow: 2px 4px 6px #ffffff;
 }
 p, li {
-  font-size: 40px;    
+  font-size: 16px;    
   line-height: 2;
   letter-spacing: 1px;
 }
@@ -32,7 +23,7 @@ html {
   background-color: #cfe7ff;
 }
 body {
-  width: 60%;
+  width: 100%;
   margin: 10% auto;
   background-color: #27bbed;
   padding: 4em;
@@ -44,8 +35,8 @@ img {
   display: block;
   float: right;
   margin: 0;
-  width: 22%;
-  border-radius: 60em;
+  width: 40%;
+  border-radius: 65em;
 
 }
 
