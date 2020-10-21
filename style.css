@@ -1,1 +1,10 @@
+html {
+  
+  img {
+  display: block;
+  float: right;
+  margin: 0;
+  width: 40%;
+  border-radius: 1em;
 
+}
