@@ -1,26 +1,23 @@
 html {
-    font-size: 12px;
+    font-size: 14px;
     font-family: 'Montserrat', sans-serif;
 		font-family: 'Roboto', sans-serif;
 }
-h1 {
-  font-size: 60px;
-  text-align: center;
+html {
+    font-size: 12px;
     font-family: 'Montserrat', sans-serif;
-    margin: 0;
-    padding: 20px 0;    
-    color: #000000;
-    text-shadow: 3px 2px 4px #89cbe9;
+		font-family: 'Roboto', sans-serif;
+
 
   }
 h2 {
-  font-size: 25px;
-  text-align: left;
-    font-family: 'Montserrat', sans-serif;
+ font-size: 65px;
+  text-align: center;
+    font-family: , sans-serif;
     margin: 0;
-    padding: auto;    
-    color: #000000;
-    text-shadow: 3px 2px 4px #89cbe9;
+    padding: 20px 0;    
+    color: #0043ff;
+    text-shadow: 15px 2px 4px #ffffff;
 }
 p, li {
   font-size: 16px;    
@@ -28,15 +25,14 @@ p, li {
   letter-spacing: 1px;
 }
 html {
-  background-color: lightslategray;
+  background-color: #cfe7ff;
 }
 body {
   width: 75%;
   margin: 10% auto;
-  background-color: #cbe5f1;
+  background-color: #27bbed;
   padding: 4em;
-  border-radius: 3em;
-  border: 3px solid;
+  border: 6px solid;
 }
 
 
@@ -45,7 +41,7 @@ img {
   float: right;
   margin: 0;
   width: 40%;
-  border-radius: 1em;
+  border-radius: 65em;
 
 }
 
