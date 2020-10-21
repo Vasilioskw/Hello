@@ -12,7 +12,7 @@ li {
     margin: 0;
     padding: 12px 0;    
     color: #0043ff;
-    text-shadow: 15px 2px 4px #ffffff;
+    text-shadow: 2px 4px 8px #ffffff;
 }
 h2 {
  font-size: 65px;
@@ -21,10 +21,10 @@ h2 {
     margin: 0;
     padding: 20px 0;    
     color: #0043ff;
-    text-shadow: 15px 2px 4px #ffffff;
+    text-shadow: 2px 4px 8px #ffffff;
 }
 p, li {
-  font-size: 20px;    
+  font-size: 40px;    
   line-height: 2;
   letter-spacing: 1px;
 }
